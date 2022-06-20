@@ -7,7 +7,7 @@ function developModel(){
   document.getElementById('x_values3').value,
   document.getElementById('x_values4').value,
   document.getElementById('x_values5').value
-  ];
+  ].map(Number);
   var y_values = 
    
   [document.getElementById('y_values1').value,
@@ -15,7 +15,7 @@ function developModel(){
   document.getElementById('y_values3').value,
   document.getElementById('y_values4').value,
   document.getElementById('y_values5').value
-  ];
+  ].map(Number);
     
 
     
