@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--primary-color);
+    font-family: 'Open sans', sans-serif;
+    font-size: 1.3em;
+    line-height: 1.5em;
+  }
+  
+  
+
+
+.cromatografia {
+    font-weight: bold;
+    margin: 25px;
+}
+
+.container-fluid {
+    background-color: #afc2d4;
+
+}
+
+.input-group-sinal {
+
+
+    width: 100px;
+
+}
+
+.grafico {
+    background-color: white;
+}
+
+.btn-outline-success {
+    padding: 10px;
+    border-color:
+}
+
+
+.regressionEquation {
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+.regressionEquation {
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
